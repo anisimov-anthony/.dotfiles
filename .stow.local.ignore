@@ -1,0 +1,9 @@
+\.git
+\.gitignore
+\.gitmodules
+
+\.swp$
+\.bak$
+.*\.md
+.*\.sh
+.*\.png

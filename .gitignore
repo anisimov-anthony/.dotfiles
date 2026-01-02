@@ -1,0 +1,9 @@
+.tmux/plugins
+*.log
+*.bak
+*.env
+*.env*
+*.txt
+*.png
+*.sh
+*.tmp
