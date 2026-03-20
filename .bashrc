@@ -132,3 +132,6 @@ export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
 
 # for golang
 export PATH=$PATH:/usr/local/go/bin
+. "/home/anton/.deno/env"
+export PATH=$PATH:$HOME/go/bin
+export PATH="$HOME/bin:$PATH"

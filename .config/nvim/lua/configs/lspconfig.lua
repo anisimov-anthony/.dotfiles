@@ -10,6 +10,7 @@ local servers = {
     "bashls",       -- Bash
     "dockerls",     -- Dockerfile
     "yamlls",       -- YAML (includes CI/CD files)
+    "bufls",        -- Protobuf
 }
 vim.lsp.enable(servers)
 

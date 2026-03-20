@@ -23,7 +23,8 @@ return {
                 "vim", "lua", "vimdoc",
                 "html", "css", "javascript", "typescript",
                 "rust", "go", "python", "bash",
-                "dockerfile", "yaml", "json", "jsonc"
+                "dockerfile", "yaml", "json", "jsonc",
+                "proto"
             },
             indent = {
                 enable = true,
